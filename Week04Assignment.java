@@ -105,7 +105,7 @@ public class Week04Assignment {
 		double[] methodDoubleAverageDuo = {2.5, 1.0, 2.75}; 
 		System.out.println(greaterAverage(methodDoubleAverage, methodDoubleAverageDuo));
 		
-		boolean isHotOutside = true;
+		boolean isHotOutside = false;
 		double moneyInPocket = 20.00;
 		System.out.println(willBuyDrink(isHotOutside, moneyInPocket));
 		
